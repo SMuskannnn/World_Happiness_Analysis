@@ -1,5 +1,4 @@
 # World_Happiness_Analysis
-Sure, here's a GitHub README draft based on the provided code:
 
 ---
 
